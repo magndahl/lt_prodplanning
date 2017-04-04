@@ -45,3 +45,19 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+*.npy
+data/input/Aarhus_tmp2m_1979_2010/heat_consumption.pkl
+*.csv
+data/input/heat_consumption.pkl
+*.xlsx
+*.pkl
+figure/avg_price_vs_prod.pdf
+*.pdf
+figure.zip
+*.log
+heat_load_model.pyc
+*.pyc
+temperature_ts.png
+data/input/atlas_data.py
+*.xlsm
+Aarhus_tmp2m_1979_2010.zip
